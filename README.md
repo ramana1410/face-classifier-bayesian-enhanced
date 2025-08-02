@@ -9,6 +9,8 @@ A generative machine learning model based on **Bayes' rule** to classify human f
 ![Standard Deviations](face_std_deviations.png)
 *Pixel-wise standard deviations showing variation within each group.*
 
+> 💡 **Note**: The full dataset (`training-young-adult/`, `training-old/`, etc.) was used locally to train the model. Due to GitHub's file limits, only the core code and results are included here. The model generates `face_means.png` and `face_std_deviations.png` when `main.ipynb` is run.
+
 ---
 
 ## 🎯 Project Goal
